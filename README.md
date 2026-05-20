@@ -121,9 +121,9 @@ Test Case: Techlistic Practice Form Automation
 
 ---
 
-# 🚀 How to Run the Project
+🚀 How to Run the Project
 
-## 1️⃣ Clone the Repository
+1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/ushaan01/Techlistic-Login-Form-Automation-POM-Project.git
